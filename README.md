@@ -1,5 +1,5 @@
 # Foundations of Robotics: Technical Project
-## SCARA manipulator control and simulation
+## Analysis and Control of a SCARA robot
 
 
 # Project Description

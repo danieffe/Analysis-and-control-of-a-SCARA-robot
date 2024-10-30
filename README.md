@@ -1,6 +1,6 @@
 # Foundations of Robotics: Technical Project
 ## SCARA manipulator control and simulation
-### University of Naples "Federico II" - Prof. Bruno Siciliano
+
 
 # Project Description
 
